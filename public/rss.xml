@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>房贷计算器 - 房贷知识</title>
+    <link>https://fangdai.itzhouq.cn/</link>
+    <description>房贷计算器最新房贷知识和资讯</description>
+    <atom:link href="https://fangdai.itzhouq.cn/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>买房按揭办不下来能退首付吗？</title>
+      <link>https://fangdai.itzhouq.cn/post/1.html</link>
+      <description>买房按揭办不下来能否退首付?了解按揭贷款失败后的退款流程和注意事项</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://fangdai.itzhouq.cn/post/1.html</guid>
+    </item>
+
+    <item>
+      <title>还房贷，等额本金和等额本息哪个好？</title>
+      <link>https://fangdai.itzhouq.cn/post/2.html</link>
+      <description>等额本金和等额本息是两种常见的房贷还款方式，本文详细对比两者的优缺点</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://fangdai.itzhouq.cn/post/2.html</guid>
+    </item>
+
+    <item>
+      <title>公积金贷款计算器告诉你公积金和住房补贴有什么不同</title>
+      <link>https://fangdai.itzhouq.cn/post/3.html</link>
+      <description>公积金贷款和住房补贴都是购房福利，但两者有本质区别</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://fangdai.itzhouq.cn/post/3.html</guid>
+    </item>
+
+    <item>
+      <title>房贷还不上怎么办？</title>
+      <link>https://fangdai.itzhouq.cn/post/4.html</link>
+      <description>房贷还不上会带来什么后果？有哪些解决方案？本文为您详细解答</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://fangdai.itzhouq.cn/post/4.html</guid>
+    </item>
+  </channel>
+</rss>
