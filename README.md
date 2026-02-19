@@ -8,7 +8,7 @@
 
 ## 预览
 
-https://itzhouq.github.io/fangdai/
+https://fangdai.itzhouq.cn
 
 ## 代码结构
 
