@@ -1,6 +1,29 @@
+# https://fangdai.itzhouq.cn/robots.txt
+# 房贷计算器 robots.txt
+
 User-agent: *
 Allow: /
 Disallow: /js/
 Disallow: /css/
 
+# 主流搜索引擎爬虫显式允许
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: YisouSpider
+Allow: /
+
+# Sitemap 与 RSS
 Sitemap: https://fangdai.itzhouq.cn/sitemap.xml
